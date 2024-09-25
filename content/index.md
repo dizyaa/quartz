@@ -4,4 +4,4 @@ title: Home
 
 ### Непопулярное мнение
 
-[[Аналоги Notion|analogs_notion]]
+[[analogs_notion|Аналоги Notion]]
